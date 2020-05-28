@@ -7,6 +7,47 @@
         padding: 0;
     }
     
+    .my-title {
+        font-size: 175%;
+        width: 100%;
+        background-color: white;
+        border: 0px solid black;
+        text-align: center;
+        padding: 20px;
+    }
+    
+    .my-section-padding {
+        background-color: white;
+        position: relative;
+        border: none;
+        padding: 10px;
+    }
+    
+    .my-section {
+        background-color: gainsboro;
+        border: 1px solid black;
+    }
+    
+    .my-section-title {
+        font-size: 125%;
+        text-align: center;
+        width: 100px;
+        padding: 5px;
+        border: 1px solid black;
+        float: right;
+        position: relative;
+        top: -1px;
+        right: -1px;
+    }
+    
+    .my-section-content {
+        font-size: 100%;
+        text-align: left;
+        width: 100;
+        clear: both;
+        padding: 10px;
+    }
+    
     .my-chicken {
         background-color: orchid;
     }
