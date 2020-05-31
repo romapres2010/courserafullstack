@@ -1,0 +1,92 @@
+/** HEADER **/
+#my-header-nav {
+  background-color: gainsboro;
+  border-radius: 0;
+  border: 0px;
+}
+
+#my-header-nav .navbar-brand {
+  padding-top: 8px;
+  padding-bottom: 50px;
+}
+
+#my-header-nav #my-company-name {
+  /* Company name */
+  font-family: 'Oxygen', serif;
+  color: black;
+  /* font-size: 2.5em; */
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  /* line-height: 1.75; */
+  width: max-content;
+}
+
+#my-header-nav .navbar-brand a:hover,
+#my-header-nav .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#my-header-nav button.navbar-toggle,
+#my-header-nav button .icon-bar {
+  border: 1px solid black;
+}
+
+#my-header-nav button.navbar-toggle {
+  clear: both;
+  margin-top: -47px;
+  margin-bottom: 0;
+}
+
+#my-nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#my-nav-list a {
+  color: black;
+  text-align: center;
+  background: whitesmoke;
+  font-size: 1.5em;
+  /* border: 1px solid black; */
+}
+
+#my-header-nav button:hover {
+  background: #E7E7E7;
+}
+
+#my-nav-list a:hover {
+  background: #E7E7E7;
+}
+
+/* END HEADER */
+
+
+/* HOME PAGE */
+#my-menu-title {
+  margin-bottom: 20px;
+}
+
+.my-menu-category {
+  margin-left: 20px;
+  margin-right: 20px;
+  background: whitesmoke;
+}
+
+.my-menu-category h3.my-menu-category-title {
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.my-menu-category .my-menu-category-details {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.my-menu-category-details {
+  font-size: 1em;
+  /* font-style: italic; */
+}
+
+/* END HOME PAGE */
