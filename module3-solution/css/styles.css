@@ -53,9 +53,8 @@
   text-align: center;
   background: whitesmoke;
   font-size: 1.5em;
-/*   margin-left: 10px;
-  margin-right: 10px; */
-  /* border: 1px solid black; */
+  /* margin-left: 10px; */
+  /* margin-right: 10px; */
 }
 
 #my-header-nav button:hover {
@@ -74,15 +73,16 @@
   margin-bottom: 20px;
 }
 
-.my-menu-category {
-  margin-left: 20px;
-  margin-right: 20px;
+.my-menu-category-content {
+  margin-left: 0px;
+  margin-right: 0px;
   background: whitesmoke;
 }
 
 .my-menu-category h3.my-menu-category-title {
   padding-top: 10px;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .my-menu-category .my-menu-category-details {
